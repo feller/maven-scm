@@ -111,12 +111,12 @@
   </modules>
 
   <scm>
-    <connection>scm:git:https://git-wip-us.apache.org/repos/asf/maven-scm.git</connection>
-    <developerConnection>scm:git:https://git-wip-us.apache.org/repos/asf/maven-scm.git</developerConnection>
-    <url>https://github.com/apache/maven-scm/tree/${project.scm.tag}</url>
-    <tag>master</tag>
+    <connection>scm:git:git@github.com:feller/maven-scm.git</connection>
+    <developerConnection>scm:git:git@github.com:feller/maven-scm.git</developerConnection>
+    <url>scm:git@github.com:feller/maven-scm.git</url>
+    <tag>HEAD</tag>
   </scm>
-
+                  
   <issueManagement>
     <system>jira</system>
     <url>https://issues.apache.org/jira/browse/SCM</url>
