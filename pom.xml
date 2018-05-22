@@ -30,7 +30,7 @@
 
   <groupId>org.apache.maven.scm</groupId>
   <artifactId>maven-scm</artifactId>
-  <version>1.9.6-shallow-SNAPSHOT</version>
+  <version>1.9.5-shallow</version>
   <packaging>pom</packaging>
 
   <name>Maven SCM</name>
@@ -114,7 +114,7 @@
     <connection>scm:git:git@github.com:feller/maven-scm.git</connection>
     <developerConnection>scm:git:git@github.com:feller/maven-scm.git</developerConnection>
     <url>scm:git@github.com:feller/maven-scm.git</url>
-    <tag>HEAD</tag>
+    <tag>maven-scm-1.9.5-shallow</tag>
   </scm>
                   
   <issueManagement>
