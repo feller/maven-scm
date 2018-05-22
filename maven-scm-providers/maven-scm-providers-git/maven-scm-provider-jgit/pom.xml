@@ -24,7 +24,7 @@
   <parent>
     <groupId>org.apache.maven.scm</groupId>
     <artifactId>maven-scm-providers-git</artifactId>
-    <version>1.9.5.0-shallow</version>
+    <version>1.9.5.1-shallow-SNAPSHOT</version>
   </parent>
 
   <artifactId>maven-scm-provider-jgit</artifactId>
